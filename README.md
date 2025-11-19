@@ -122,6 +122,8 @@ Read the [Contributing Guide](https://github.com/earlephilhower/arduino-pico/blo
 * Waveshare RP2350 PiZero
 * Waveshare RP2350 Plus
 * Waveshare RP2350 LCD 0.96
+* Waveshare RP2350 Relay-Ch6
+* Waveshare RP2350 Relay-Ch6-W
 * WIZnet W5100S-EVB-Pico
 * WIZnet W5100S-EVB-Pico2
 * WIZnet W5500-EVB-Pico
